@@ -1,7 +1,7 @@
 #include <iostream>
 
-#include "../include/matrix.h"
-#include "../include/SLAE.h"
+#include "./include/matrix.h"
+#include "./include/SLAE.h"
 
 [[nodiscard]]
 Matrix findInverseMatrix(const Matrix& LUMatrix) {
