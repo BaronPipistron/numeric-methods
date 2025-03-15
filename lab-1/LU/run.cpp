@@ -1,7 +1,7 @@
 #include <iostream>
 
-#include "./include/matrix.h"
-#include "./include/SLAE.h"
+#include "../../utils/matrix/matrix.h"
+#include "../../utils/slae/SLAE.h"
 
 [[nodiscard]]
 Matrix findInverseMatrix(const Matrix& LUMatrix) {
@@ -68,7 +68,7 @@ int main() {
         for (size_t j = 0; j != matrixSize; ++j) {
             std::cin >> matrix[i][j];
         }
-    } 
+    }
     Matrix toCheckMatrix = matrix;
 
     std::vector<double> b(matrixSize);

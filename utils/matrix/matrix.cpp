@@ -1,4 +1,4 @@
-#include "../../include/matrix.h"
+#include "./matrix.h"
 
 Matrix::Matrix(size_t n, double fillValue): n_(n), m_(n) {
     matrix_ = std::vector<std::vector<double>>(n, std::vector<double>(n, fillValue));
