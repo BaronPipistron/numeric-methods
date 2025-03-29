@@ -13,7 +13,7 @@ Matrix findInverseMatrix(const Matrix& LUMatrix) {
     for (size_t i = 0; i != matrixSize; ++i) {
         unitMatrixColumn[i] = 1;
 
-        std::vector<double> inverseMatrixColumn = slae.solveSystem(unitMatrixColumn);
+        std::vector<double> inverseMatrixColumn = slae.solveSystemLU(unitMatrixColumn);
 
         for (size_t j = 0; j != matrixSize; ++j) {
             inverseMatrix[j][i] = inverseMatrixColumn[j];
@@ -81,7 +81,7 @@ int main() {
     matrix.LUDecompositionInplace();
     SLAE slae(matrix, b);
 
-    std::vector<double> xVector = slae.solveSystem();
+    std::vector<double> xVector = slae.solveSystemLU();
     Matrix inverseMatrix = findInverseMatrix(matrix);
 
     std::cout << "System Matrix: " << std::endl;

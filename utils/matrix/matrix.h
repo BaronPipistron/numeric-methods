@@ -8,7 +8,7 @@
 #include <vector>
 
 class Matrix {
-  public:
+  public: // methods
     Matrix(size_t n, double fillValue = 0.);
     Matrix(size_t n, size_t m, double fillValue = 0.);
     Matrix(const std::initializer_list<std::vector<double>>& list);
@@ -51,10 +51,10 @@ class Matrix {
     struct NotSquareMatrix { };
     struct NotSuitableMatrixForThisOperation { };
 
-  private:
+  private: // methods
     void initializeRowPermutationsVector();
 
-  private:
+  private: // fields
     size_t n_;
     size_t m_;
     std::vector<std::vector<double>> matrix_;
