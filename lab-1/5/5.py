@@ -96,14 +96,9 @@ if __name__ == '__main__':
     print('Input matrix:')
     input_matrix = np.empty((n, n), dtype=float)
     for row in range(n):
-        input_matrix[row] = np.array(
-            list(
-                map(
-                    float,
-                    input().split()
-                )
-            )
-        )
+        input_matrix[row] = np.array(list(map(
+            float,
+            input().split())))
 
     eps = float(input('Input error rate: '))
 

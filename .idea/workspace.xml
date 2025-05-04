@@ -5,9 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58f9a69f-1055-43f7-81d5-4339d88fdfaa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-1/2/test_cases.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-1/3/test_cases.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-1/4/test_cases.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-1/JacobiRotationsMethod/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-1/JacobiRotationsMethod/run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-1/LU/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab-1/1/test_cases.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-1/LU/run.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-1/QR/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab-1/5/test_cases.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-1/QR/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab-1/5/5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-1/SeidelsMethod/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-1/SeidelsMethod/run.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-1/SimpleIterationsMethod/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-1/SimpleIterationsMethod/run.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-1/TridiagonalMatrixAlgorithm/include/TDM.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-1/TridiagonalMatrixAlgorithm/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-1/TridiagonalMatrixAlgorithm/run.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-1/TridiagonalMatrixAlgorithm/src/TDM/TDM.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/matrix/matrix.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/matrix/matrix.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/slae/SLAE.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/slae/SLAE.h" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,22 +43,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "BaronPipistron"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;BaronPipistron&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/BaronPipistron/numeric-methods.git",
-    "accountId": "0689f00b-57da-4245-bdf1-1df7658dcb05"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/BaronPipistron/numeric-methods.git&quot;,
+    &quot;accountId&quot;: &quot;0689f00b-57da-4245-bdf1-1df7658dcb05&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2vgbQGDFbJVvhtNXkTPE6tjPROG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -47,7 +66,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.1.executor": "Run",
+    "Python.2.executor": "Run",
+    "Python.3.1.executor": "Run",
+    "Python.3.2.executor": "Run",
+    "Python.3.executor": "Run",
+    "Python.4.executor": "Run",
     "Python.arut.executor": "Run",
+    "Python.main.executor": "Run",
     "Python.run.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -59,6 +85,15 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\BaronPipistron\Desktop\МАИ\numeric-methods\lab-1\3" />
+      <recent name="C:\Users\BaronPipistron\Desktop\МАИ\numeric-methods\lab-1\2" />
+      <recent name="C:\Users\BaronPipistron\Desktop\МАИ\numeric-methods\lab-1\5" />
+      <recent name="C:\Users\BaronPipistron\Desktop\МАИ\numeric-methods\lab-1\4" />
+      <recent name="C:\Users\BaronPipistron\Desktop\МАИ\numeric-methods\lab-1\1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -76,6 +111,9 @@
       <option name="presentableId" value="Default" />
       <updated>1744569648257</updated>
       <workItem from="1744569649825" duration="8098000" />
+      <workItem from="1744645819399" duration="3439000" />
+      <workItem from="1745757867365" duration="20190000" />
+      <workItem from="1746350056521" duration="17946000" />
     </task>
     <servers />
   </component>
@@ -83,7 +121,14 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/numeric_methods$run.coverage" NAME="run Coverage Results" MODIFIED="1744579612286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-1/QR" />
+    <SUITE FILE_PATH="coverage/numeric_methods$run.coverage" NAME="run Coverage Results" MODIFIED="1744649959161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-1/QR" />
+    <SUITE FILE_PATH="coverage/numeric_methods$1.coverage" NAME="1 Coverage Results" MODIFIED="1746367815246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-1/1" />
     <SUITE FILE_PATH="coverage/numeric_methods$arut.coverage" NAME="arut Coverage Results" MODIFIED="1744577129966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-1/QR" />
+    <SUITE FILE_PATH="coverage/numeric_methods$2.coverage" NAME="2 Coverage Results" MODIFIED="1746367834798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-1/2" />
+    <SUITE FILE_PATH="coverage/numeric_methods$4.coverage" NAME="4 Coverage Results" MODIFIED="1746370994668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-1/4" />
+    <SUITE FILE_PATH="coverage/numeric_methods$main.coverage" NAME="main Coverage Results" MODIFIED="1745852738298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-2/1" />
+    <SUITE FILE_PATH="coverage/numeric_methods$3_1.coverage" NAME="3.1 Coverage Results" MODIFIED="1746367846585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-1/3" />
+    <SUITE FILE_PATH="coverage/numeric_methods$3.coverage" NAME="3 Coverage Results" MODIFIED="1745860996142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-1" />
+    <SUITE FILE_PATH="coverage/numeric_methods$3_2.coverage" NAME="3.2 Coverage Results" MODIFIED="1746367870156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-1/3" />
   </component>
 </project>
